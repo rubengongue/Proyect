@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+body{
+    background-color: rgb(193, 193, 193);
+}
+
+
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 0 0 20px #fff;
+    color: white;
+    background-color: black;
+    margin: 0;
+    margin-top: -15px;
+    margin-left: -15px;
+    margin-right: -15px;
+    position: relative;
+    padding-bottom: 1cm;
+    padding-top: 1cm;
+    border: 4px solid;
+    transition: 3s;
+}
+h1:hover{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 0 0 20px #fff;
+    color: white;
+    background-color: rgba(255, 0, 0, 0.863);
+    opacity: 1;
+    margin: 0;
+    margin-top: -15px;
+    margin-left: -15px;
+    margin-right: -15px;
+    position: relative;
+    padding-bottom: 1cm;
+    padding-top: 1cm;
+    border: 4px solid;
+    transition: 3s;  
+@media screen and (max-width: 865px) {
+}
+}
+h1 p{
+    font-size: small;
+    color: red;
+}
+nav{
+    margin-top: -5px;
+    color: black;
+    background-color: rgb(109, 117, 107);
+    margin-left: -20px;
+    margin-right: -20px;
+    border: 5px solid;
+}
+nav p{
+    display: inline-block;
+    padding-left: 6cm;
+    color: white;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-shadow: 0 0 20px #fff;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+h3{
+    color: white;
+    text-align: center;
+    margin: 0%;
+    background-color: black;
+}
+.id{
+    background-color:rgb(109, 117, 107);
+}
+div p a{
+    font-size: 24pt;
+}
+div p a:hover{
+    color:red;
+    font-size: 24pt;
+    background-color: black;
+    transition: 2s;
+}
+.Champions{
+    width: 50%;
+    float: right;
+    background-color: rgba(35, 35, 35, 0.7);
+
+}
+
+.imagen{
+    float: left;
+    width: 50%;
+}
+img{
+    width: 70%;
+    margin-left: 130px;
+}
+body{
+    font-family: 'Protest Riot', sans-serif;
+}
+
+h3{
+    margin: -7px;
+}
+div{
+    width: 100%;
+}
+
+.gris{
+    background-color: rgba(59, 55, 55, 0.7);
+}
+
+div p{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+div p:hover{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    color: white;
+}
+video{
+    margin-top: 150px;
+    margin-left: 400px;
+}
+img:hover{
+    opacity: 0.2;
+}
+.promesas{
+    position: relative;
+    left: 340px;
+    top: 150px;
+}
+footer{
+    margin-top: 20px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-bottom: -15px;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+

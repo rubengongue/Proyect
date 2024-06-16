@@ -1,0 +1,116 @@
+body{
+    background-color: rgb(193, 193, 193);
+}
+
+
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 0 0 20px #fff;
+    color: white;
+    background-color: black;
+    margin: 0;
+    margin-top: -15px;
+    margin-left: -15px;
+    margin-right: -15px;
+    position: relative;
+    padding-bottom: 1cm;
+    padding-top: 1cm;
+    border: 4px solid;
+    transition: 3s;
+}
+h1:hover{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 0 0 20px #fff;
+    color: white;
+    background-color: rgba(255, 0, 0, 0.863);
+    opacity: 1;
+    margin: 0;
+    margin-top: -15px;
+    margin-left: -15px;
+    margin-right: -15px;
+    position: relative;
+    padding-bottom: 1cm;
+    padding-top: 1cm;
+    border: 4px solid;
+    transition: 3s;  
+}
+h1 p{
+    font-size: small;
+    color: red;
+}
+nav{
+    margin-top: -5px;
+    color: black;
+    background-color: rgb(109, 117, 107);
+    margin-left: -20px;
+    margin-right: -20px;
+    border: 5px solid;
+}
+nav p{
+    display: inline-block;
+    padding-left: 6cm;
+    color: white;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-shadow: 0 0 20px #fff;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+aside{
+    bottom: 0px;
+    top: 174px;
+    width: 25%;
+    position: absolute;
+    background-color: rgb(101, 101, 101);
+    font-size: 12pt;
+    text-align: center;
+    margin-left: -15px;
+    height: 250%;
+    border-color: black;
+}
+aside p{
+    border: 2px solid;
+    padding-top: 1px;
+    color: white;
+    margin-left: 15px;
+    margin-right: 10px;
+    border-radius: 10px;
+    border-color: black;
+    color: black;
+    
+}
+aside p:hover{
+    background-color: white;
+    color: white;
+}
+.todo{
+    width: 100%;
+}
+.texto{
+    width: 70%;
+    margin-left: 400px;
+}
+a img{
+    margin-top: 10px;
+    width:300px;
+    border-radius: 20px;
+}
+#Palencia{
+    width: 150px;
+    position: relative;
+    float: right;
+}
+#monte{
+    width: 250px;
+    position: relative;
+    float: right;
+}
+#monte:hover{
+    opacity: 0.2;
+}
